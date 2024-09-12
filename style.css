@@ -1,0 +1,42 @@
+body {
+    padding: 15px;
+    background: fixed;
+    background-color: lightcyan;
+}
+
+header {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+    color: black;
+    
+
+}
+p {
+    font-family: 12px Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    
+
+}
+#button {
+    color: black;
+    background-color: lightblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 0px;
+    
+
+}
+#option {
+    color: black;
+    background-color: lightblue;
+    font-size: 12px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+footer {
+    font: 12px Arial;
+    color: black;
+
+
+}
+
+
